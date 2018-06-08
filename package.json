@@ -64,6 +64,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/essomen/oracle-BANK"
-  }
-
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"]
   }
