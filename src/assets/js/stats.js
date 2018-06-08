@@ -27,14 +27,14 @@ $(function() {
 
     $.plot('#piechart1', data, {
         series: {
-            pie: {
+            pie: { 
                 show: true,
                 radius: 1,
                 label: {
                     show: true,
                     radius: 3/4,
                     formatter: labelFormatter,
-                    background: {
+                    background: { 
                         opacity: 0.5,
                         color: '#000'
                     }

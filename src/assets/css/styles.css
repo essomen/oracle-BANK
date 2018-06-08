@@ -52,23 +52,23 @@ footer .copy{
 /* Logo & Navigation */
 
 .header{
-   height:50px;
-   background-color: #2c3742;
+   height:70px;
+   background-color: gray;
 }
 
 .header .logo h1{
-   font-size:30px;
+   font-size:40px;
    margin:0px;
    padding:10px 0px;
 }
 
 .header .logo h1 a{
    color:#fff;
-   font-family: 'Open Sans Condensed', sans-serif;
+   font-family: 'latolight', sans-serif;
 }
 
 .header .logo h1 a:hover{
-   color:#fff;
+   color:blue;
    text-decoration:none;
    border:0px;
 }
